@@ -42,7 +42,7 @@ The dataset includes:
 
 ## 🖼 Dashboard Preview
 
-
+![Dashboard Preview](dashboard.png)
 
 ## 🚀 Project Outcome
 
