@@ -51,7 +51,7 @@ This project demonstrates the use of Excel for logistics analytics and showcases
 ## 📂 Project File
 
 Download the Excel dashboard here:  
-[Download Dashboard](logistics-dashboard.xlsx)
+[Download Excel Dashboard](logistics-dashboard.xlsx)
 
 ## 👩‍💻 Author
 
