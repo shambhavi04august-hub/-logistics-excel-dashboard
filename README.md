@@ -51,8 +51,11 @@ This project demonstrates the use of Excel for logistics analytics and showcases
 ## 👩‍💻 Author
 
 Shambhavi Tripathi
+
 Logistics Professional 🚚 | Tech Enthusiast 💻 | Data-Driven 📊
+
 https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
+
 https://github.com/shambhavi04august-hub
 
 
