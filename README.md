@@ -48,6 +48,11 @@ The dataset includes:
 
 This project demonstrates the use of Excel for logistics analytics and showcases the ability to transform raw data into meaningful business insights.
 
+## 📂 Project File
+
+Download the Excel dashboard here:  
+[Download Dashboard](logistics-dashboard.xlsx)
+
 ## 👩‍💻 Author
 
 Shambhavi Tripathi
@@ -57,6 +62,8 @@ Logistics Professional 🚚 | Tech Enthusiast 💻 | Data-Driven 📊
 https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 
 https://github.com/shambhavi04august-hub
+
+
 
 
 
